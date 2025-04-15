@@ -1,0 +1,41 @@
+2025-04-13 20:55:32,965 - SecureStorage - INFO - Database not found, initializing...
+2025-04-13 20:55:32,972 - SecureStorage - INFO - Server started on localhost:9999
+2025-04-13 20:56:36,208 - SecureStorage - INFO - New connection from ('127.0.0.1', 57913)
+2025-04-13 20:56:36,220 - SecureStorage - INFO - Action logged: user_register by user 2
+2025-04-13 20:56:46,515 - SecureStorage - INFO - New connection from ('127.0.0.1', 57917)
+2025-04-13 20:56:46,519 - SecureStorage - INFO - Action logged: user_login by user 2
+2025-04-13 20:56:51,394 - SecureStorage - INFO - New connection from ('127.0.0.1', 57918)
+2025-04-13 20:56:51,405 - SecureStorage - INFO - Action logged: password_reset by user 2
+2025-04-13 20:57:55,702 - SecureStorage - INFO - Server shutting down...
+2025-04-13 20:58:00,356 - SecureStorage - INFO - Server started on localhost:9999
+2025-04-13 21:00:03,186 - SecureStorage - INFO - New connection from ('127.0.0.1', 57955)
+2025-04-13 21:00:14,146 - SecureStorage - INFO - New connection from ('127.0.0.1', 57960)
+2025-04-13 21:00:14,155 - SecureStorage - INFO - Action logged: user_login by user 2
+2025-04-13 21:00:45,646 - SecureStorage - INFO - New connection from ('127.0.0.1', 57975)
+2025-04-13 21:00:45,660 - SecureStorage - INFO - Action logged: file_upload by user 2
+2025-04-13 21:00:53,709 - SecureStorage - INFO - New connection from ('127.0.0.1', 57976)
+2025-04-13 21:00:53,723 - SecureStorage - INFO - Action logged: list_files by user 2
+2025-04-13 21:00:55,946 - SecureStorage - INFO - New connection from ('127.0.0.1', 57977)
+2025-04-13 21:00:55,953 - SecureStorage - INFO - Action logged: list_files by user 2
+2025-04-13 21:00:57,561 - SecureStorage - INFO - New connection from ('127.0.0.1', 57979)
+2025-04-13 21:00:57,568 - SecureStorage - INFO - Action logged: file_download by user 2
+2025-04-13 21:01:09,747 - SecureStorage - INFO - New connection from ('127.0.0.1', 57980)
+2025-04-13 21:01:09,754 - SecureStorage - INFO - Action logged: list_files by user 2
+2025-04-13 21:01:11,077 - SecureStorage - INFO - New connection from ('127.0.0.1', 57981)
+2025-04-13 21:01:11,083 - SecureStorage - INFO - Action logged: file_download by user 2
+2025-04-13 21:01:12,379 - SecureStorage - INFO - New connection from ('127.0.0.1', 57983)
+2025-04-13 21:01:12,385 - SecureStorage - INFO - Action logged: file_edit by user 2
+2025-04-13 21:01:32,902 - SecureStorage - INFO - New connection from ('127.0.0.1', 57987)
+2025-04-13 21:01:32,909 - SecureStorage - INFO - Action logged: list_files by user 2
+2025-04-13 21:01:34,051 - SecureStorage - INFO - New connection from ('127.0.0.1', 57988)
+2025-04-13 21:01:34,052 - SecureStorage - INFO - Deleted physical file: files/1744549245_readme.txt
+2025-04-13 21:01:34,054 - SecureStorage - INFO - Action logged: file_delete by user 2
+2025-04-13 21:01:48,053 - SecureStorage - INFO - New connection from ('127.0.0.1', 57991)
+2025-04-13 21:01:48,062 - SecureStorage - INFO - Action logged: file_upload by user 2
+2025-04-13 21:01:53,557 - SecureStorage - INFO - New connection from ('127.0.0.1', 57992)
+2025-04-13 21:01:53,561 - SecureStorage - INFO - Action logged: list_files by user 2
+2025-04-13 21:01:59,731 - SecureStorage - INFO - New connection from ('127.0.0.1', 57994)
+2025-04-13 21:02:04,042 - SecureStorage - INFO - New connection from ('127.0.0.1', 57995)
+2025-04-13 21:02:04,047 - SecureStorage - INFO - Action logged: list_files_shared_by_user by user 2
+2025-04-13 21:02:10,200 - SecureStorage - INFO - New connection from ('127.0.0.1', 57996)
+2025-04-13 21:02:10,207 - SecureStorage - INFO - Action logged: list_shared_files by user 2
